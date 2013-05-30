@@ -1,15 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FlyoutNavigationSample/MainController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlyoutNavigationSample/Info.plist">
     <Files>
-      <File FileName="FlyoutNavigationSample/MainController.cs" Line="62" Column="42" />
-      <File FileName="FlyoutNavigationSample/IphoneViewController.cs" Line="1" Column="1" />
+      <File FileName="FlyoutNavigationSample/MainController.cs" Line="1" Column="1" />
+      <File FileName="FlyoutNavigationSample/Main.cs" Line="1" Column="1" />
+      <File FileName="FlyoutNavigationSample/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="FlyoutNavigationSample" expanded="True">
-            <Node name="IphoneViewController.cs" selected="True" />
+            <Node name="View" expanded="True">
+              <Node name="Home.xib" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

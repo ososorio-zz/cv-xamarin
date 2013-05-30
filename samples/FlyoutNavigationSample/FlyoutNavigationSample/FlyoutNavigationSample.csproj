@@ -106,6 +106,7 @@
     <BundleResource Include="Default-568h%402x.png" />
     <BundleResource Include="images\icon_114x114.png" />
     <BundleResource Include="icon_114x114.png" />
+    <BundleResource Include="logo.jpg" />
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
