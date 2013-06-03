@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="pixate-engine">
+  <name>Pixate</name>
+  <publisher>Pixate, Inc.</publisher>
+  <publisher-url>http://www.pixate.com</publisher-url>
+  <docs-url>http://www.pixate.com/documentation.html</docs-url>
+  <version>1.0</version>
+  <summary>Style your native mobile apps using CSS.</summary>
+  <samples>
+    <sample id="PixateButtonDemo">
+      <name>Simple Button Demo.</name>
+      <summary>Styling buttons using CSS.</summary>
+    </sample>
+  </samples>
+</component>

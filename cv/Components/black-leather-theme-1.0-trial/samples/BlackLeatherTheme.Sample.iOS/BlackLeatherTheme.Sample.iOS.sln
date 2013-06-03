@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackLeatherTheme.Sample.iOS", "BlackLeatherTheme.Sample.iOS.csproj", "{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Release|iPhone.Build.0 = Release|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{AA1C6CF7-547B-4079-B38C-02D83F7AAEB3}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Release|iPhone.Build.0 = Release|iPhone
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EC1BDED0-DAB8-4448-958A-E6761AB9BCB4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BlackLeatherTheme.Sample.iOS.csproj
+	EndGlobalSection
+EndGlobal

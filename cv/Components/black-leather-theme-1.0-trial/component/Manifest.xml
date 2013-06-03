@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="black-leather-theme">
+  <name>Black Leather Theme</name>
+  <publisher>App Design Vault</publisher>
+  <publisher-url>http://www.appdesignvault.com</publisher-url>
+  <version>1.0</version>
+  <summary>Don't leave this theme on screen in a luxury sedan–you may never find your phone.</summary>
+  <samples>
+    <sample id="BlackLeatherTheme.Sample.iOS">
+      <name>iOS Samples.</name>
+      <summary>iOS Samples</summary>
+    </sample>
+  </samples>
+</component>
