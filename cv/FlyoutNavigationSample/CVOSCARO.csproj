@@ -61,7 +61,7 @@
     <Reference Include="monotouch" />
     <Reference Include="MonoTouch.Dialog-1" />
     <Reference Include="FlyoutNavigation">
-      <HintPath>..\..\..\lib\ios\FlyoutNavigation.dll</HintPath>
+      <HintPath>..\Components\flyoutnavigation-1.1\lib\ios\FlyoutNavigation.dll</HintPath>
     </Reference>
     <Reference Include="Pixate">
       <HintPath>..\Components\pixate-engine-1.0-trial\lib\ios\Pixate.dll</HintPath>
@@ -128,6 +128,11 @@
     <XamarinComponentReference Include="json.net">
       <InstallationInProgress>False</InstallationInProgress>
       <Version>4.5.11</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="flyoutnavigation">
+      <InstallationInProgress>True</InstallationInProgress>
+      <Version>1.1</Version>
       <Visible>False</Visible>
     </XamarinComponentReference>
   </ItemGroup>
